@@ -1,6 +1,6 @@
 ---
 title:  "Test01"
-excerpt: "GitHub Blog Test"
+excerpt: "GitHub Blog Posting and Comment test"
 
 categories:
   - Blog
@@ -9,5 +9,6 @@ tags:
 last_modified_at: 2020-10-21 23:01
 ---
 
-Test
+Posting and Comment test!
+
 {{ page.last_modified_at }}
